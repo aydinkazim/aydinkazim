@@ -1,6 +1,12 @@
-### Hi there 👋
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=je4p1how0jbyca00i7pou4igp&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=je4p1how0jbyca00i7pou4igp&redirect=true)
+
+
+
+
 
 <!--
+### Hi there 👋
+
 **aydinkazim/aydinkazim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
